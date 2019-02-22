@@ -30,7 +30,7 @@
 (quail-define-package
  "georgian-qwerty" "Georgian" "ა" t
  "Georgian layout based on QWERTY (using Unicode)"
- nil t nil t t nil nil nil nil nil t)
+ nil t t t t nil nil nil nil nil t)
 
 (quail-define-rules
  ("a" ?ა)
